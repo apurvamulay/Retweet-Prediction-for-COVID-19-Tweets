@@ -1,1 +1,5 @@
-# Retweet-Prediction-for-COVID-19-Tweets
+COVID-19 was declared a global pandemic on March 11, 2020, by World Health Organization (WHO). The life of people, since then, has changed drastically in all respects, offline as well as online. The usage of online media increased day by day as people started staying home due to lockdown orders by the government. One such online media is Twitter. It is the source of news and vital information by most of the young generation internationally. Twitter is also used to post one's views about any topic. The other popular functionalities used by Twitter users are likes and retweets. Retweet means sharing the post without any change with the followers. Thus, we can see retweeting as amplifying the spread of original content. Hence, retweet prediction is a crucial task when studying information spreading processes.
+Hence, understanding retweet behavior is useful and has many practical applications, e.g., political audience design, fake news spreading and tracking, health promotion, mass emergency management, etc. Moreover, Modeling retweet behavior has been an active research area and is also especially important during times of crisis, such as the current COVID-19 pandemic.
+
+
+In this project, the question I am trying to answer is - Given a Tweet, how many times will it be retweeted?
